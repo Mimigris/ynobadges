@@ -28,7 +28,7 @@ Once there, login into an account (no need for a moderator or developer account)
 
 ⑨ Condition - Text for the condition (formatting)
 
-⑩ Artist -
+⑩ Artist - Name of the artist. If several artists, separate them with `,` and `&` characters (e.g. `Allan, Benjamin, Chloé & Daniel`, `Estelle & Folia`).
 
 ⑪ Animated -
 
@@ -41,7 +41,7 @@ Once there, login into an account (no need for a moderator or developer account)
 * Multiple Tags with Alternatives -
 * Time Trial -
 
-⑭ Tag Requirement Count (Multiple Tags only) -
+⑭ Tag Requirement Count (Multiple Tags only) - Number of conditions the player has to do before unlocking the badge. If set, 
 
 ⑮ Required Int (Time Trial only) - Number of seconds the player has to obtain the badge.
 
