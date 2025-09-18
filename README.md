@@ -22,7 +22,7 @@ Once there, login into an account (no need for a moderator or developer account)
 
 ⑥ Map Order - 
 
-⑦ Badge Name - Name of the badge. (CASING???) By default, the name set in the tools is New Badge: no badge should be released with this name, meaning that if you see this name, it must be fixed. (LANG???) For Time Trial badges, using `{TIME}` to define the amount of time the player has to complete the condition should be used rather than manually writing the value in the text.
+⑦ Badge Name - Name of the badge. (CASING??? ' " ()?!-) By default, the name set in the tools is `New Badge`: no badge should be released with this name, meaning that if you see this name, it must be fixed. (LANG???) For Time Trial badges, using `{TIME}` to define the amount of time the player has to complete the condition should be used rather than manually writing the value in the text.
 
 ⑧ Description - Text of the description. This field is optional and can be left empty if the badge doesn't use it.
 
